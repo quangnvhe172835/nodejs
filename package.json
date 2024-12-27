@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "4.21.2"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "heaskdlj",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangnvhe172835/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "quang03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangnvhe172835/nodejs/issues"
+  },
+  "homepage": "https://github.com/quangnvhe172835/nodejs#readme"
+}
